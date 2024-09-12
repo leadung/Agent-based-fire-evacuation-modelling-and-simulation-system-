@@ -1,0 +1,6 @@
+[0911/215303.396:INFO:CONSOLE(21172)] "THREE.WebGLRenderer 92", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.0.202404161236/static/build/three.js (21172)
+[0911/215304.231:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.0.202404161236/static/libs/ColladaLoader.js (3660)
+[0911/215304.420:INFO:CONSOLE(255)] "Loaded: file:C:/Users/ADMIN/Models/ABM Fire Evacuation/3d/person.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.0.202404161236/static/init.js (255)
+[0911/215304.420:INFO:CONSOLE(271)] "load end: file:C:/Users/ADMIN/Models/ABM Fire Evacuation/3d/person.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.0.202404161236/static/init.js (271)
+[0911/215355.863:WARNING:spdy_session.cc(3484)] Received HEADERS for invalid stream 9
+[0911/215455.662:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
